@@ -2,7 +2,8 @@
   "collectionName": "components_page_popular_games",
   "info": {
     "name": "popularGames",
-    "icon": "car-battery"
+    "icon": "car-battery",
+    "description": ""
   },
   "options": {},
   "attributes": {
